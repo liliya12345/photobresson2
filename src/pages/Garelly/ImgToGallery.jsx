@@ -39,7 +39,7 @@ export default function ImgToGallery(props) {
                             <div className="row g-3 ">
                                 {data.map(img =>
 
-                                    <img src={img.img} key={img.id} onClick={() => {
+                                    <img src={img.img} alt="" key={img.id} onClick={() => {
                                         console.log(img.id);
                                         let startImage = data[0];
                                         data[0] = data[img.id - 1];

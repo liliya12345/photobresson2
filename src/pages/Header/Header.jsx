@@ -1,5 +1,5 @@
 import React from 'react';
-import {Container, Nav, Navbar, NavbarBrand, NavbarToggle, NavDropdown} from "react-bootstrap";
+import {Container, Nav, Navbar} from "react-bootstrap";
 import './navbar.css'
 
 export default function Header(props) {

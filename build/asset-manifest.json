@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22fe2b74.css",
+    "main.js": "/static/js/main.fd2180f6.js",
+    "static/js/453.fa10dd1b.chunk.js": "/static/js/453.fa10dd1b.chunk.js",
+    "static/media/par91280-scaled.jpg": "/static/media/par91280-scaled.5104fa78eace25cc40b6.jpg",
+    "static/media/best-regards-henri-cartier-bresson-en.jpg": "/static/media/best-regards-henri-cartier-bresson-en.4221cb912a0f74669a1c.jpg",
+    "static/media/Henri-Cartier-Bresson-stairs-paris-Escalier-cote-rue-de-Crimee-970w-499h.jpg": "/static/media/Henri-Cartier-Bresson-stairs-paris-Escalier-cote-rue-de-Crimee-970w-499h.b812d03df36a0e6f53b3.jpg",
+    "static/media/br5.webp": "/static/media/br5.439787daaf54655b463d.webp",
+    "static/media/PAR45086.jpg": "/static/media/PAR45086.83b6304fd45b1be0181e.jpg",
+    "static/media/bresson1.webp": "/static/media/bresson1.8fd6c8f145e1e063799e.webp",
+    "static/media/Henri-Cartier-Bresson-Passporte-Prize-in-Street-Photography.jpg": "/static/media/Henri-Cartier-Bresson-Passporte-Prize-in-Street-Photography.16a348b983cc102c1903.jpg",
+    "static/media/par43606-597x400.jpg": "/static/media/par43606-597x400.6206257e586f115dea21.jpg",
+    "static/media/Screen_Shot_2016-06-30_at_3.37.32_PM_1024x1024.webp": "/static/media/Screen_Shot_2016-06-30_at_3.37.32_PM_1024x1024.05b3699b67a2992f50a4.webp",
+    "index.html": "/index.html",
+    "main.22fe2b74.css.map": "/static/css/main.22fe2b74.css.map",
+    "main.fd2180f6.js.map": "/static/js/main.fd2180f6.js.map",
+    "453.fa10dd1b.chunk.js.map": "/static/js/453.fa10dd1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22fe2b74.css",
+    "static/js/main.fd2180f6.js"
+  ]
+}
